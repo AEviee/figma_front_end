@@ -1,4 +1,4 @@
-import OrangeButton from "./OrangeButton"
+import OrangeButton from "./OrangeButton.jsx"
 
 function NavBar() {
     return (

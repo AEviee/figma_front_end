@@ -1,12 +1,12 @@
-import Features from "./components/Features"
-import About from "./components/About"
-import Brands from "./components/Brands"
-import Hero from "./components/Hero"
-import NavBar from "./components/navBar"
-import Possibilities from "./components/possibilities"
-import GetStarted from "./components/GetStarted"
-import Happening from "./components/Happening"
-import Footer from "./components/footer"
+import Features from "./components/Features.jsx"
+import About from "./components/About.jsx"
+import Brands from "./components/Brands.jsx"
+import Hero from "./components/Hero.jsx"
+import NavBar from "./components/navBar.jsx"
+import Possibilities from "./components/possibilities.jsx"
+import GetStarted from "./components/GetStarted.jsx"
+import Happening from "./components/Happening.jsx"
+import Footer from "./components/footer.jsx"
 
 function App() {  
   return (
